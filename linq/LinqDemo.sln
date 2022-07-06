@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqDemo", "LinqDemo\LinqDemo.csproj", "{7B7FB53A-9558-4567-8EE4-645A13C10EB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqDemo1", "LinqDemo1\LinqDemo1.csproj", "{7E4F5075-BCD9-46EB-92B5-1B77EA33EC83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqDemo2", "LinqDemo2\LinqDemo2.csproj", "{8FD463A1-A347-4C36-B676-8C19FE254234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B7FB53A-9558-4567-8EE4-645A13C10EB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7FB53A-9558-4567-8EE4-645A13C10EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7FB53A-9558-4567-8EE4-645A13C10EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7FB53A-9558-4567-8EE4-645A13C10EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E4F5075-BCD9-46EB-92B5-1B77EA33EC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4F5075-BCD9-46EB-92B5-1B77EA33EC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4F5075-BCD9-46EB-92B5-1B77EA33EC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4F5075-BCD9-46EB-92B5-1B77EA33EC83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FD463A1-A347-4C36-B676-8C19FE254234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD463A1-A347-4C36-B676-8C19FE254234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD463A1-A347-4C36-B676-8C19FE254234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD463A1-A347-4C36-B676-8C19FE254234}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
